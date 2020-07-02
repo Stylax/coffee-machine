@@ -1,8 +1,11 @@
 package com.machine;
 
+import java.util.Scanner;
+
 public class Main {
 
     public static void main(String[] args) {
+
         System.out.println("Starting to make a coffee");
         System.out.println("Grinding coffee beans");
         System.out.println("Boiling water");
